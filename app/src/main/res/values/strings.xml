@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+    <string name="loading_with_symbol">加载中&#8230;</string>
+    <string name="processing">处理中</string>
+</resources>

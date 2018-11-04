@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="divide">#f2f2f2</color>
+    <color name="pressed">#fafafa</color>
+    <color name="c0">#ffffff</color>
+    <color name="c1">#f3f4f5</color>
+    <color name="c2">#f2f2f2</color>
+    <color name="c3">#cccccc</color>
+    <color name="c4">#999999</color>
+    <color name="c5">#808080</color>
+    <color name="c6">#333333</color>
+    <color name="c7">#ec0b3b</color>
+    <color name="c8">#f35f2c</color>
+    <color name="c9">#f6ad1f</color>
+    <color name="c10">#444444</color>
+    <color name="c11">#30b405</color>
+    <color name="c12">#1265cd</color>
+    <color name="c13">#cab6fd</color>
+    <color name="c14">#50cee3</color>
+    <color name="c15">#6BC227</color>
+    <color name="c16">#c8ffffff</color>
+    <color name="c17">#F5F5F5</color>
+    <color name="c18">#fa9b5e</color>
+    <color name="c19">#ff5454</color>
+    <color name="c20">#dedede</color>
+    <color name="c21">#ed1f3c</color>
+    <color name="c22">#e3218b</color>
+    <color name="c23">#f0f0f0</color>
+    <color name="c24">#F48181</color>
+    <color name="dedede">#dedede</color>
+    <color name="a15c7">#26ec0b3b</color>
+    <color name="a60c7">#ff5454</color>
+    <color name="a35c0">#59ffffff</color>
+    <color name="a50c0">#80ffffff</color>
+    <color name="a50c5">#80777777</color>
+    <color name="a50c6">#80000000</color>
+    <color name="f6">#FF666666</color>
+    <color name="a35c6">#59000000</color>
+    <color name="a60c6">#99333333</color>
+    <color name="ab0c6">#b0000000</color>
+    <color name="a60back">#99000000</color>
+    <color name="a65c0">#a6ffffff</color>
+    <color name="a75c0">#BFffffff</color>
+    <color name="a60c3">#99e5e5e5</color>
+    <color name="a08c13">#14cab6fd</color>i
+    <color name="a08c14">#1450cee3</color>
+    <color name="a08c7">#fef7f9</color>
+    <color name="a08c9">#14f6ad1f</color>
+    <color name="a9b9b9b">#9B9B9B</color>
+    <!--其他颜色-->
+    <color name="db092f">#db092f</color>
+    <color name="adress">#fffaf0</color>
+    <color name="ff8ca4">#ff8ca4</color>
+    <color name="eacb7d">#eacb7d</color>
+    <color name="f890d27">#890D27</color>
+    <color name="ff5454">#ff5454</color>
+    <color name="ffc9b57">#fc9b57</color>
+    <color name="faf5bf">#faf5bf</color>
+    <color name="ff117bd5">#FF117BD5</color>
+    <color name="c_label_presell">#23c48a</color>
+    <color name="c_label_decrease">#26a3ec</color>
+    <color name="c_label_special">#f19234</color>
+    <color name="c_label_pack">#9457ed</color>
+    <color name="c_label_rebate">#ee466e</color>
+    <color name="c_label_no_rebate">#dfdfdf</color>
+
+    <color name="c_cart_bg_fullcut">#e7f4fd</color>
+    <color name="c_cart_bg_fullcut_insert">#eaf9fe</color>
+    <color name="c_cart_bg_bundle_title">#dfddff</color>
+    <color name="c_cart_bg_bundle_content">#eceaff</color>
+    <color name="c_goods_pull_replenish">#fffbc2</color>
+    <color name="c_goods_pull_activity">#def4ff</color>
+
+    <color name="c_lable_seller_delivery">#2280FD</color>
+    <color name="c_lable_zskx_delivery">@color/c7</color>
+
+    <color name="color_111111">#111111</color>
+    <color name="color_1B1B1B">#1B1B1B</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_444444">#444444</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_AAAAAA">#AAAAAA</color>
+    <color name="color_BBBBBB">#BBBBBB</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
+    <color name="color_DDDDDD">#DDDDDD</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_E0E0E0">#E0E0E0</color>
+    <color name="color_50E1A1">#50E1A1</color>
+    <color name="color_FA3D3D">#FA3D3D</color>
+
+
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="font_green_i">#26c43f</color>
+
+</resources>
